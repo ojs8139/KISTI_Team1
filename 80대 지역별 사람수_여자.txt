@@ -1,8 +1,0 @@
-Gyeonggi-do,75
-Gwangju,47
-Seoul,32
-Busan,19
-Gyeongsangnam-do,13
-Gyeongsangbuk-do,3
-Jeollabuk-do,2
-Daegu,2
