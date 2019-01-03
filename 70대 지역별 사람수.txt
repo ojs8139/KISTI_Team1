@@ -1,0 +1,16 @@
+Seoul,1246
+Gyeonggi-do,584
+Busan,401
+Gyeongsangnam-do,163
+Incheon,144
+Daegu,140
+Chungcheongnam-do,91
+Jeollabuk-do,86
+Gyeongsangbuk-do,85
+Gwangju,77
+Ulsan,73
+Jeollanam-do,45
+Gangwon-do,39
+Chungcheongbuk-do,36
+Daejeon,27
+Jeju-do,10
