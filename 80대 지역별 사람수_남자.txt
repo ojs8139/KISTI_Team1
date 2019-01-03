@@ -1,6 +1,0 @@
-Busan,9
-Incheon,8
-Seoul,5
-Jeollabuk-do,3
-Gyeongsangnam-do,3
-Daegu,1
